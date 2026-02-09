@@ -8,7 +8,7 @@ Vision: Ideas Powering Atmanirbhar Bharat 🇮🇳
 <img width="1871" height="775" alt="Screenshot 2026-02-08 232244" src="https://github.com/user-attachments/assets/95ecffc5-9bb1-472d-8867-a85af6e0f044" />
 
 
-## 📌 WHAT IS SAMARTHYA? - 
+##  WHAT IS SAMARTHYA? - 
 
 AI-powered platform connecting MSMEs + Students
 Works through verified, outcome-based micro-projects
@@ -20,14 +20,14 @@ Government-aligned, transparent & auditable system
 <img width="1885" height="738" alt="Screenshot 2026-02-08 232333" src="https://github.com/user-attachments/assets/1fbf5721-9942-4c84-bf9e-9cd5a6c7f5b2" />
 
 
-## ❗ PROBLEM WE SOLVE - 
+##  PROBLEM WE SOLVE - 
 
 Access Gap: 63+ million MSMEs lack local talent
 Skill Mismatch: Students have theory, not real-world validation
 Trust Deficit: MSMEs cannot verify fresher skills
 Accountability Gap: Skilling schemes not linked to real outcomes
 
-## 💡 OUR SOLUTION -
+##  OUR SOLUTION -
 
 Short-term micro-projects
 AI skill matching
@@ -35,7 +35,7 @@ Verified proof-of-work
 Government-grade traceability
 
 
-## 🎯 CORE OBJECTIVES - 
+##  CORE OBJECTIVES - 
 
 MSMEs post real business problems
 Students get verified digital portfolios
@@ -45,16 +45,16 @@ Focus on outcome > attendance
 <img width="1878" height="758" alt="Screenshot 2026-02-08 232354" src="https://github.com/user-attachments/assets/81d63a5a-8b34-4161-bc8e-c0b7b07bd942" />
 
 
-## ⚙️ PLATFORM WORKFLOW -
+##  PLATFORM WORKFLOW -
 
-🏭 MSMEs
+MSMEs - 
 Post tasks: Website, Social Media, Inventory, etc.
 Hire local, verified talent
 
 
 <img width="1895" height="741" alt="Screenshot 2026-02-08 232424" src="https://github.com/user-attachments/assets/b8b86219-586a-49ed-af4a-d771e240a1b3" />
 
-🎓 Students
+Students -
 AI-based skill matching (not GPA)
 Gain real-world experience
 Build industry-validated portfolios
@@ -62,21 +62,21 @@ Build industry-validated portfolios
 <img width="1899" height="757" alt="Screenshot 2026-02-08 232411" src="https://github.com/user-attachments/assets/05c64a49-c057-42d8-befc-b82f1fedbc54" />
 
 
-🏛️ Government
+Government - 
 Track skill demand
 Monitor task completion
 Ensure transparency & auditability
 
 <img width="1901" height="785" alt="Screenshot 2026-02-08 232436" src="https://github.com/user-attachments/assets/0d83bf0d-8260-446b-9d31-0f850062b980" />
 
-🚀 KEY INNOVATIONS -
+KEY INNOVATIONS -
 
 Outcome Over Hours: Milestone-based tasks
 Government-Auditable Logs
 Hyper-Local Design: MSME cluster-focused
 Explainable AI (XAI): Bias-aware recommendations
 
-🧱 SYSTEM ARCHITECTURE -
+SYSTEM ARCHITECTURE -
 
 Frontend: Student profiles, MSME dashboard, Government panel
 Backend: User & task management, AI skill-task matching, RBAC
@@ -85,28 +85,28 @@ Databases: MongoDB, Qdrant
 DevOps: Docker, CI/CD pipelines
 
 
-## 🧩 Technology Stack -
+## Technology Stack -
 
-🎨 Frontend - 
+Frontend - 
       1) HTML
       2) Tailwind CSS
 
-⚙️ Backend
+Backend - 
       1) Node.js
       2) Express.js
       3) JWT Authentication
       4) Role-Based Access Control (RBAC)
 
-🧠 AI Layer
+AI Layer - 
       1) OpenAI Embeddings (semantic skill matching)
       2) LLM-based recommendation engine
       3) Prompt-based scoring & feedback
 
-🗄️ Databases -
+Databases -
       1) MongoDB (users, tasks, submissions)
       2) Qdrant Vector Database (semantic search)
 
-☁️ DevOps & Cloud - 
+DevOps & Cloud - 
       1) Docker
       2) CI/CD Pipelines
 
@@ -118,19 +118,19 @@ DevOps: Docker, CI/CD pipelines
 | Phase 2 | AI skill-task matching, proof-of-work generation |
 | Phase 3 | Bias monitoring, analytics & scalability         |
 
-## 📈 FUTURE ROADMAP - 
+## FUTURE ROADMAP - 
 
 Udyam & Skill India integration
 National micro-internship ecosystem
 AI skill-gap analysis
 Voice-based interface
 
-## 💰 REVENUE MODEL -
+## REVENUE MODEL -
 
 Freemium: MSMEs limited free usage
 Partnerships: EdTech & skill platforms
 
-## 🌍 IMPACT - 
+## IMPACT - 
 
 Beneficiaries
 Students → Verified, industry-ready portfolios
@@ -150,14 +150,14 @@ Strengthens local MSMEs
 Builds self-reliant workforce
 Drives inclusive national growth
 
-## 👥 TEAM - 
+## TEAM - 
 
 Team Name: CodeSlayers
 Team Leader: Aditi Dubey
 Mobile number - 8815370260
 Team Members: 4
 
-## 📚 REFERENCES -
+## REFERENCES -
 
 Ministry of MSME – Annual Report 2024–25
 Udyam Registration Portal
