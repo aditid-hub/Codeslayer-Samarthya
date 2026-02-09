@@ -91,13 +91,13 @@ DevOps: Docker, CI/CD pipelines
       1) HTML
       2) Tailwind CSS
 
- Backend
+ Backend - 
       1) Node.js
       2) Express.js
       3) JWT Authentication
       4) Role-Based Access Control (RBAC)
 
- AI Layer
+ AI Layer - 
       1) OpenAI Embeddings (semantic skill matching)
       2) LLM-based recommendation engine
       3) Prompt-based scoring & feedback
