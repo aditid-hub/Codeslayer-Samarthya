@@ -149,13 +149,6 @@ Strengthens local MSMEs
 Builds self-reliant workforce
 Drives inclusive national growth
 
-##  TEAM - 
-
-Team Name: CodeSlayers
-Team Leader: Aditi Dubey
-Mobile number - 8815370260
-Team Members: 4
-
 ##  REFERENCES -
 
 Ministry of MSME – Annual Report 2024–25
