@@ -1,9 +1,6 @@
 # Samarthya - 
 
 Skill-Based MSME–Student Collaboration Platform
-Theme: TH01 – Open Innovation
-Event: INNOVIT 2026
-Vision: Ideas Powering Atmanirbhar Bharat 🇮🇳
 
 <img width="1871" height="775" alt="Screenshot 2026-02-08 232244" src="https://github.com/user-attachments/assets/95ecffc5-9bb1-472d-8867-a85af6e0f044" />
 
@@ -148,13 +145,6 @@ Promotes indigenous talent
 Strengthens local MSMEs
 Builds self-reliant workforce
 Drives inclusive national growth
-
-## TEAM - 
-
-Team Name: CodeSlayers
-Team Leader: Aditi Dubey
-Mobile number - 8815370260
-Team Members: 4
 
 ## REFERENCES -
 
